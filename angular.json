@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "formularios"
+    }
+  },
+  "defaultProject": "formularios",
+  "cli": {
+    "analytics": "8b9792ef-a453-44b1-97da-7e10cd34731a"
+  }
 }
